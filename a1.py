@@ -1,5 +1,5 @@
 # Assignment 1: AI-Generated Python Problems
-# Name: [Your Name Here]
+# Name: [Dillon Shannon]
 
 """
 AI-Generated Problem Set
@@ -20,7 +20,7 @@ Remember: The goal is to LEARN, not just get working code!
 
 """
 MY ORIGINAL AI PROMPT:
-[Paste the prompt you used to generate your problem set here]
+Help me explain Python function to my struggling classmate. Write a clear explanation in 1-2 short paragraphs, as if talking to a beginner.
 
 Example: "I'm learning Python basics in a high school programming class. 
 I have some experience with Java. Can you create 5-7 practice problems that cover..."
@@ -32,7 +32,9 @@ I have some experience with Java. Can you create 5-7 practice problems that cove
 
 """
 PROBLEM 1: [Problem Title/Description]
-[Copy the complete problem description from your AI assistant]
+A function in Python is like a little machine that you can build to do a specific job for you. Instead of writing the same code over and over again, you put those instructions inside a function, give it a name, and then “call” it whenever you need it. For example, if you made a function that adds two numbers, you can use it anywhere in your program just by calling its name, and it will give you the result.
+
+Think of it like a recipe: once youve written the steps down, you don’t have to rewrite them every time you cook—you just follow the recipe. Functions work the same way. You define it once with the def keyword, and then you can reuse it as many times as you like.
 
 Example:
 Problem: Write a function called 'is_even' that takes an integer and returns 
