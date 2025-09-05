@@ -17,9 +17,13 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 After completing your problems, reflect on:
 
 1. **What was your initial experience with Python?** How did it compare to other programming languages you've used?
+Its a lot more confusing than java or the ECS code.
 
 2. **How did you use AI effectively?** Give specific examples of good prompts you used and what you learned from the responses.
+I got a simple explanation using my prompt. I made sure to be specific in my prompt and it gave me the right answer.
 
 3. **What concepts were most challenging?** How did AI help you understand them?
+Some of the returning was confusing and the AI kind of explained it simpler.
 
 4. **What did you learn about collaborating with AI?** What strategies worked best for learning rather than just getting answers?
+Using the AI explanation in the code helped me understand a bit better.
