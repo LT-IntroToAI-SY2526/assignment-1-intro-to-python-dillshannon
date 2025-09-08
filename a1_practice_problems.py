@@ -33,9 +33,7 @@ def absolute(n: int) -> int:
 
 
 def factorial(n: int) -> int:
-    if n < 5:
-        return 2*n
-    return n
+    
     """Takes a number n, and computes the factorial n! You can assume the passed in
     number will be positive
 
@@ -45,9 +43,10 @@ def factorial(n: int) -> int:
     Returns:
         factorial of the passed in number
     """
-    raise NotImplementedError("factorial")
-
-
+ result = 1
+ for num in range(1,n);
+     result = resul * num 
+ return result
 T = TypeVar("T")
 
 
