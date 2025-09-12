@@ -22,8 +22,7 @@ Remember: The goal is to LEARN, not just get working code!
 MY ORIGINAL AI PROMPT:
 Help me explain Python function to my struggling classmate. Write a clear explanation in 1-2 short paragraphs, as if talking to a beginner.
 
-Example: "I'm learning Python basics in a high school programming class. 
-I have some experience with Java. Can you create 5-7 practice problems that cover..."
+
 """
 
 # =============================================================================
@@ -45,7 +44,20 @@ Example inputs/outputs:
 - is_even(7) should return False
 """
 
-
+def calculate_number(number):
+    """
+    
+    """
+    if number >= 5:
+        return "Great"
+    if number >= 4:
+        return "Good"
+    if number >= 3:
+        return "Average"
+    if number >= 2:
+        return "Below Average"
+    else:
+        return "Bad"
 
 
 
@@ -72,7 +84,8 @@ print(f"is_even(7): {is_even(7)}")  # Should print False
 """
 
 print("Testing Problem 1:")
-# Add your tests here
+print(calculate_number(4))
+print(calculate_number(2))
 
 print("\nTesting Problem 2:")
 # Add your tests here
