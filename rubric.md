@@ -20,12 +20,12 @@ Remember: The goal is to **learn programming** while building **AI collaboration
 | Criteria | Points Possible | Points Earned | Comments |
 |----------|----------------|---------------|----------|
 | **Programming Completion** | | | |
-| a1.py Functions Complete | 3 | | |
-| a1_practice_problems.py Complete | 3 | | |
+| a1.py Functions Complete | 3 | 1 | There was only 1 question completed instead of the 5-7 I asked for.  |
+| a1_practice_problems.py Complete | 3 | 3 | |
 | **Reflection & Learning** | | | |
-| AI Collaboration Process | 2 | | |
-| Learning Reflection Quality | 2 | | |
-| **TOTAL** | **10** | | |
+| AI Collaboration Process | 2 | 2 | |
+| Learning Reflection Quality | 2 | 1 | You need to give me a little more detail with your responses.  Be specific with your responses and talk about what prompts you used and why they were helpful or not for your situation.  All your responses were only one line long.  |
+| **TOTAL** | **10** | 7 | |
 
 ---
 
