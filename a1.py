@@ -87,16 +87,20 @@ print("Testing Problem 1:")
 print(calculate_number(4))
 print(calculate_number(2))
 
-print("\nTesting Problem 2:")
-# Add your tests here
+print("Testing Problem 1:")
+print(calculate_number(3))
+print(calculate_number(1))
 
-print("\nTesting Problem 3:")
-# Add your tests here
+print("Testing Problem 1:")
+print(calculate_number(5))
+print(calculate_number(4))
 
-print("\nTesting Problem 4:")
-# Add your tests here
+print("Testing Problem 1:")
+print(calculate_number(4))
+print(calculate_number(3))
 
-print("\nTesting Problem 5:")
-# Add your tests here
+print("Testing Problem 1:")
+print(calculate_number(3))
+print(calculate_number(0))
 
 
